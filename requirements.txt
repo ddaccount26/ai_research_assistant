@@ -1,0 +1,12 @@
+streamlit
+arxiv
+tqdm
+pandas
+PyMuPDF
+tiktoken
+sentence-transformers
+numpy
+faiss-cpu
+openai
+torch
+python-dotenv
