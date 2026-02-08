@@ -7,7 +7,7 @@ import pandas as pd
 from tqdm import tqdm
 from datetime import datetime
 
-#RAG-specific imports
+#RAG-specific imports only
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
